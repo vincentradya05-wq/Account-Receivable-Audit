@@ -1,0 +1,7 @@
+{
+  "name": "AuditGuard AR",
+  "description": "An AI-powered Accounts Receivable Audit application using Gemini for risk assessment, aging analysis, and substantive testing procedures.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
